@@ -3,9 +3,9 @@
 ## ¿Que busca este repositorio?
 Este repositorio busca explicarte las base para que puedas manipular datos, esto con ayuda de:
 
-- [Pandas]()
+- [Pandas](https://github.com/Naren-7/Pandas-and-Numpy/tree/main/pandas)
 
-- [NumPy]()
+- [NumPy](https://github.com/Naren-7/Pandas-and-Numpy/tree/main/NumPy)
 
 ## **NumPy**
 - Es una librería enfocada al cálculo númerico y manejo __de Arrays o listas.__
